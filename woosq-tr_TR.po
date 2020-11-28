@@ -1,0 +1,324 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Smart Quick View for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Quick View for WooCommerce 2.2.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-smart-quick-"
+"view\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-24T02:05:53+00:00\n"
+"PO-Revision-Date: 2020-11-28 13:54+0300\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: woosq\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Quick View for WooCommerce"
+msgstr "WooCommerce için WPC Smart Hızlı Görünüm"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid ""
+"WPC Smart Quick View allows users to get a quick look of products without "
+"opening the product page."
+msgstr ""
+"WPC Smart Quick View, kullanıcıların ürün sayfasını açmadan ürünlere hızlı "
+"bir şekilde bakmalarına olanak tanır."
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-smart-quick-view.php:281 wpc-smart-quick-view.php:377
+#: wpc-smart-quick-view.php:378
+msgid "Quick view"
+msgstr "Hızlı Görünüm"
+
+#: wpc-smart-quick-view.php:308 wpc-smart-quick-view.php:318
+msgid "WPC Smart Quick View"
+msgstr "WPC Smart Hızlı Görünüm"
+
+#: wpc-smart-quick-view.php:308
+msgid "Smart Quick View"
+msgstr "WPC Smart Hızlı Görünüm"
+
+#: wpc-smart-quick-view.php:321
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Eklentimizi kullandığınız için teşekkür ederiz! Memnunsanız, lütfen beş "
+"yıldızlı tam bir %s derecelendirmesini ödüllendirin."
+
+#: wpc-smart-quick-view.php:324
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: wpc-smart-quick-view.php:326
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: wpc-smart-quick-view.php:328
+msgid "Discussion"
+msgstr "Tartışma"
+
+#: wpc-smart-quick-view.php:335 wpc-smart-quick-view.php:745
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: wpc-smart-quick-view.php:340 wpc-smart-quick-view.php:746
+msgid "Premium Version"
+msgstr "Premium Sürüm"
+
+#: wpc-smart-quick-view.php:344
+msgid "Essential Kit"
+msgstr "Temel Kit"
+
+#: wpc-smart-quick-view.php:355
+msgid "General"
+msgstr "Genel"
+
+#: wpc-smart-quick-view.php:359
+msgid "Type"
+msgstr "Tip"
+
+#: wpc-smart-quick-view.php:364
+msgid "Button"
+msgstr "Buton"
+
+#: wpc-smart-quick-view.php:368
+msgid "Link"
+msgstr "Link"
+
+#: wpc-smart-quick-view.php:374
+msgid "Text"
+msgstr "Metin"
+
+#: wpc-smart-quick-view.php:380 wpc-smart-quick-view.php:667
+msgid "Leave blank to use the default text and can be translated."
+msgstr "Varsayılan metni kullanmak için boş bırakın ve çevrilebilir."
+
+#: wpc-smart-quick-view.php:385
+msgid "Extra class (optional)"
+msgstr "Ekstra sınıf (isteğe bağlı)"
+
+#: wpc-smart-quick-view.php:390
+msgid "Add extra class for action button/link, split by one space."
+msgstr ""
+"Eylem düğmesi / bağlantısı için bir boşlukla bölünmüş fazladan sınıf "
+"ekleyin."
+
+#: wpc-smart-quick-view.php:395
+msgid "Position"
+msgstr "Pozisyon"
+
+#: wpc-smart-quick-view.php:400
+msgid "Above title"
+msgstr "Başlığın üzerinde"
+
+#: wpc-smart-quick-view.php:404
+msgid "Under title"
+msgstr "Başlık altı"
+
+#: wpc-smart-quick-view.php:408
+msgid "Under rating"
+msgstr "Derecelendirmenin altında"
+
+#: wpc-smart-quick-view.php:412
+msgid "Under price"
+msgstr "Fiyatın altında"
+
+#: wpc-smart-quick-view.php:416
+msgid "Above add to cart"
+msgstr "Sepete ekle düğmesinin üstünde"
+
+#: wpc-smart-quick-view.php:420
+msgid "Under add to cart"
+msgstr "Sepete ekle düğmesinin altında"
+
+#: wpc-smart-quick-view.php:424
+msgid "None (hide it)"
+msgstr "Yok (gizle)"
+
+#: wpc-smart-quick-view.php:430
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: wpc-smart-quick-view.php:433
+msgid ""
+"You can add the button by manually, please use the shortcode %s, eg. %s for "
+"the product with ID is 99."
+msgstr ""
+"Düğmeyi manuel olarak ekleyebilirsiniz, lütfen %s kısa kodunu kullanın, "
+"örn. Kimliğine sahip ürün için %s 99'dur."
+
+#: wpc-smart-quick-view.php:438
+msgid "Popup effect"
+msgstr "Popup efekti"
+
+#: wpc-smart-quick-view.php:443
+msgid "Fade"
+msgstr "Karartma"
+
+#: wpc-smart-quick-view.php:447
+msgid "Zoom in"
+msgstr "Yakınlaştır"
+
+#: wpc-smart-quick-view.php:451
+msgid "Zoom out"
+msgstr "Uzaklaştır"
+
+#: wpc-smart-quick-view.php:455
+msgid "Newspaper"
+msgstr "Gazete"
+
+#: wpc-smart-quick-view.php:459
+msgid "Move horizontal"
+msgstr "Yatay Taşı"
+
+#: wpc-smart-quick-view.php:463
+msgid "Move from top"
+msgstr "Üstten hareket et"
+
+#: wpc-smart-quick-view.php:467
+msgid "3d unfold"
+msgstr "3d açılmak"
+
+#: wpc-smart-quick-view.php:471
+msgid "Slide bottom"
+msgstr "Alt Slide"
+
+#: wpc-smart-quick-view.php:477
+msgid "Use perfect-scrollbar"
+msgstr "Mükemmel kaydırma çubuğunu kullanın"
+
+#: wpc-smart-quick-view.php:482 wpc-smart-quick-view.php:584
+#: wpc-smart-quick-view.php:655
+msgid "Yes"
+msgstr "Evet"
+
+#: wpc-smart-quick-view.php:486 wpc-smart-quick-view.php:580
+#: wpc-smart-quick-view.php:651
+msgid "No"
+msgstr "Hayır"
+
+#: wpc-smart-quick-view.php:490
+msgid "Read more about %s"
+msgstr "%s hakkında daha fazlasını okuyun"
+
+#: wpc-smart-quick-view.php:495
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: wpc-smart-quick-view.php:511
+msgid "All categories"
+msgstr "Tüm Kategoriler"
+
+#: wpc-smart-quick-view.php:517
+msgid "Only show the Quick View button for products in selected categories."
+msgstr ""
+"Yalnızca seçili kategorilerdeki ürünler için Hızlı Görünüm düğmesini göster."
+
+#: wpc-smart-quick-view.php:523
+msgid "Content"
+msgstr "İçerik"
+
+#: wpc-smart-quick-view.php:532
+msgid "Images"
+msgstr "Resimler"
+
+#: wpc-smart-quick-view.php:537
+msgid "Product image & Product gallery images"
+msgstr "Ürün resmi ve Ürün galerisi resimleri"
+
+#: wpc-smart-quick-view.php:541
+msgid "Product image"
+msgstr "Ürün resmi"
+
+#: wpc-smart-quick-view.php:545
+msgid "Product gallery images"
+msgstr "Ürün galerisi resimleri"
+
+#: wpc-smart-quick-view.php:551
+msgid "Image size"
+msgstr "Resim boyutu"
+
+#: wpc-smart-quick-view.php:575
+msgid "Lightbox for images"
+msgstr "Görüntüler için Işık Kutusu"
+
+#: wpc-smart-quick-view.php:590
+msgid "Product summary"
+msgstr "Ürün Özeti"
+
+#: wpc-smart-quick-view.php:597
+msgid "Title"
+msgstr "Başlık"
+
+#: wpc-smart-quick-view.php:602
+msgid "Rating"
+msgstr "Değerlendirme"
+
+#: wpc-smart-quick-view.php:607
+msgid "Price"
+msgstr "Fiyat"
+
+#: wpc-smart-quick-view.php:612
+msgid "Excerpt"
+msgstr "Alıntı"
+
+#: wpc-smart-quick-view.php:617
+msgid "Add to cart"
+msgstr "Sepete Ekle"
+
+#: wpc-smart-quick-view.php:622
+msgid "Meta"
+msgstr "Meta"
+
+#: wpc-smart-quick-view.php:628
+msgid "Add to cart button"
+msgstr "Sepete Ekle düğmesi"
+
+#: wpc-smart-quick-view.php:633
+msgid "Like archive page"
+msgstr "Arşiv sayfasını beğen"
+
+#: wpc-smart-quick-view.php:637
+msgid "Like single page"
+msgstr "Tek bir sayfa gibi"
+
+#: wpc-smart-quick-view.php:641
+msgid "Choose the functionally for the add to cart button."
+msgstr "Sepete ekle düğmesi için işlevsel olarak seçin."
+
+#: wpc-smart-quick-view.php:646
+msgid "View details button"
+msgstr "Ayrıntıları görüntüle düğmesi"
+
+#: wpc-smart-quick-view.php:661
+msgid "View details text"
+msgstr "Ayrıntılar metnini gör"
+
+#: wpc-smart-quick-view.php:664 wpc-smart-quick-view.php:665
+msgid "View product details"
+msgstr "Ürün ayrıntılarını görüntüleyin"
+
+#: wpc-smart-quick-view.php:674
+msgid "Update Options"
+msgstr "Seçenekleri Güncelle"
+
+#: wpc-smart-quick-view.php:762
+msgid "Support"
+msgstr "Destek"
